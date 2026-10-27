@@ -1,0 +1,13 @@
+# Brain Tumor MRI Classification - Python dependencies
+# Author: Parth Kabade
+#
+# Install with:  pip install -r requirements.txt
+#
+
+
+tensorflow      # Keras (models, layers, VGG16, image utilities) is bundled with TensorFlow
+numpy
+matplotlib
+pillow          # imported as PIL
+scikit-learn    # imported as sklearn
+seaborn
